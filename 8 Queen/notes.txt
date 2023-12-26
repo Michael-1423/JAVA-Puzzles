@@ -1,0 +1,6 @@
+1) define a move generator function
+2) elimination function
+3) place function
+4) heuristic array
+5) test1
+6) test2
